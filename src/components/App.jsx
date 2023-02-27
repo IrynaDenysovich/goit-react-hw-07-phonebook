@@ -8,7 +8,7 @@ export function App() {
     <div
       style={{
         fontFamily: 'sans-serif',
-        height: '100vh',
+        // height: '100vh',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
